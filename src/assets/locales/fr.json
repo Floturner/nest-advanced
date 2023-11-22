@@ -1,0 +1,6 @@
+{
+  "HELLO": "Salut {firstName}",
+  "ERRORS": {
+    "USER_NOT_FOUND": "L'utilisateur {firstName} n'existe pas"
+  }
+}
